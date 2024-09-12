@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kenzie Evano Tan</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Selamat Datang di Channel YouTube Saya!</h1>
+    </header>
+
+    <section class="youtube">
+        <h2>Tonton Video Terbaru dari Channel Saya</h2>
+        <!-- Ganti 'UCorDNPPWSp-cHOMkaldlScA' dengan ID channel YouTube kamu -->
+        <iframe width="560" height="315" src="https://www.youtube.com/embed?listType=user_uploads&list=CHANNEL_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Channel YouTube Saya. Terima kasih sudah berkunjung!</p>
+    </footer>
+</body>
+</html>
